@@ -1,4 +1,3 @@
-package br.net.omegasistemas.padrao.util;
 
 import java.io.IOException;
 import java.security.InvalidKeyException;
